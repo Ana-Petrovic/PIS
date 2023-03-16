@@ -4,7 +4,8 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class newclass1
+    class newclass1//pis kolegij
     {
     }
+    
 }

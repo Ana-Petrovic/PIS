@@ -10,4 +10,7 @@ namespace ConsoleApp1
     class newclass2
     {
     }
+    class a
+    {
+    }
 }
